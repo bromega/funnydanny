@@ -1,11 +1,6 @@
 baseurl = "https://bromega.github.io/funnydanny/"
 title = "Funny Danny"
-
-[menu]
-
-# Main menu
-
 [[menu.main]]
-    name = "Home"
-    url  = ""
-    weight = 1
+name = "Home"
+url = "https://www.funnydanny.com"
+weight = 1
