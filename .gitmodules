@@ -1,0 +1,6 @@
+[submodule "themes/piercer"]
+	path = themes/piercer
+	url = https://github.com/danielkvist/hugo-piercer-theme.git
+[submodule "themes/restaurant"]
+	path = themes/restaurant
+	url = https://github.com/themefisher/restaurant-hugo.git
