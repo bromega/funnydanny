@@ -1,11 +1,13 @@
 ---
-title: "Home"
-description: ""
+title: Home
+description: ''
 images: []
-draft: false
-menu: main
-weight: 1
----
+weight: "1"
+menu:
+  main:
+    weight: 1
 
+---
 # Funny Danny
-He is funny
+
+He is funny super funny
