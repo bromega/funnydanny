@@ -14,3 +14,5 @@ fields:
 - type: number
   name: weight
   label: weight
+pages:
+- posts/test-2.md
